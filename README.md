@@ -1,8 +1,7 @@
 # Healthcare Analytics and Operational Intelligence 
 A data-driven project designed to improve patient satisfaction, operational efficiency, and decision-making in the healthcare industry. 
 
-This independent project highlights my ability to design, implement, and deliver impactful data solutions that align with real-world healthcare challenges. The project emphasizes ETL pipeline development, statistical analysis, predictive modeling, and dashboarding—all critical skills for a data analyst role in the healthcare industry.
-
+This independent project highlights my ability to design, implement, and deliver impactful data solutions that align with real-world healthcare challenges. The project emphasizes ETL pipeline development, statistical analysis, predictive modeling, and dashboarding.
 ## Project Goals
 1. **Analyze Patient Satisfaction Trends**  
    - Explore factors impacting patient satisfaction, such as survey response rates and cleanliness metrics.  

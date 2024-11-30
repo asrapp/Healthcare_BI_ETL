@@ -1,8 +1,5 @@
 # Healthcare_BI
-A data-driven project designed to improve patient satisfaction, operational efficiency, and decision-making in the healthcare industry. The project demonstrates my ability to design and implement an end-to-end healthcare analytics solution.  
-
-The focus areas include ETL pipeline creation, data cleaning and transformation, statistical analysis, machine learning, and dashboard development to generate actionable insights for healthcare providers.
-
+A data-driven project designed to improve patient satisfaction, operational efficiency, and decision-making in the healthcare industry. 
 
 This independent project highlights my ability to design, implement, and deliver impactful data solutions that align with real-world healthcare challenges. The project emphasizes ETL pipeline development, statistical analysis, predictive modeling, and dashboarding—all critical skills for a data analyst role in the healthcare industry.
 

@@ -21,6 +21,19 @@ This independent project highlights my ability to design, implement, and deliver
 
 ---
 
+## Dataset
+Using the HCAHPS (Hospital Consumer Assessment of Healthcare Providers and Systems) dataset, the project showcases data engineering, advanced analytics, machine learning, and visualization skills to deliver insights that can drive measurable improvements in healthcare quality.
+See the [dataset source](https://www.cms.gov/data-research/research/consumer-assessment-healthcare-providers-systems/hospital-cahps-hcahps) for more details.
+
+
+
+### Data Preparation Highlights:
+- **Cleaned Missing Values**: Focused on key metrics like `survey_star_rating` and `positive_response_ratio`.  
+- **Validated Dates**: Ensured survey start and end dates were consistent.  
+- **Geographical Enrichment**: Added state and county-level satisfaction averages.
+
+---
+
 ## Key Features
 ### 1. **ETL Process**
 - Automated the extraction, transformation, and loading (ETL) of patient survey data using Python.  
@@ -54,14 +67,7 @@ This independent project highlights my ability to design, implement, and deliver
   - **Operational Dashboard**: Drill-down views of response rates, positive response ratios, and star ratings.  
   - **Geographic Dashboard**: Heatmaps of satisfaction scores by state, city, and county.
 
-## Dataset
-Using the HCAHPS (Hospital Consumer Assessment of Healthcare Providers and Systems) dataset, the project showcases data engineering, advanced analytics, machine learning, and visualization skills to deliver insights that can drive measurable improvements in healthcare quality.
-See the [dataset source](https://www.cms.gov/data-research/research/consumer-assessment-healthcare-providers-systems/hospital-cahps-hcahps) for more details.
 
-### Data Preparation Highlights:
-- **Cleaned Missing Values**: Focused on key metrics like `survey_star_rating` and `positive_response_ratio`.  
-- **Validated Dates**: Ensured survey start and end dates were consistent.  
-- **Geographical Enrichment**: Added state and county-level satisfaction averages.
 
 ## Tools and Technologies
 - **Python**: pandas, NumPy, matplotlib, seaborn, scikit-learn, XGBoost.  
@@ -84,30 +90,6 @@ See the [dataset source](https://www.cms.gov/data-research/research/consumer-ass
    - Satisfaction scores vary significantly by state and county.  
    - High-performing regions can serve as benchmarks for underperforming areas.
 
-## Project Workflow
-
-### 1. **ETL Pipeline**
-- Loaded raw survey data from CSV.  
-- Extracted relevant columns for hospitals, survey measures, and survey responses.  
-- Cleaned and exported data into structured tables for analysis.
-
-### 2. **Exploratory Data Analysis**
-- Visualized key metrics, such as satisfaction trends, response rates, and positive response ratios.  
-- Identified correlations and regional performance variations.
-
-### 3. **Feature Engineering**
-- Created new variables to enhance predictive power (e.g., interaction terms, positive response ratio).  
-- Aggregated geographic metrics for benchmarking (state, city, county-level satisfaction scores).
-
-### 4. **Predictive Modeling**
-- Built machine learning models to predict satisfaction scores:  
-  - Initial Random Forest model achieved **R² = 0.49** and **RMSE = 0.71**.  
-  - Improved XGBoost model achieved **R² = 0.53** and **RMSE = 0.68** by adding interaction terms and geographic features.
-
-### 5. **Visualization**
-- Developed interactive Tableau dashboards for executives and operational teams:  
-  - Tracked satisfaction trends over time.  
-  - Highlighted underperforming hospitals and regions.
 
 ## Interactive Tableau Dashboard
 

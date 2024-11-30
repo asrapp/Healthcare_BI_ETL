@@ -1,5 +1,8 @@
 # Healthcare_BI
-An automated ETL pipeline for processing healthcare survey data, analyzing patient satisfaction and operational metrics, and visualizing insights through PostgreSQL and interactive dashboards
+A data-driven project designed to improve patient satisfaction, operational efficiency, and decision-making in the healthcare industry. The project demonstrates my ability to design and implement an end-to-end healthcare analytics solution.  
+
+The focus areas include ETL pipeline creation, data cleaning and transformation, statistical analysis, machine learning, and dashboard development to generate actionable insights for healthcare providers.
+
 
 This independent project highlights my ability to design, implement, and deliver impactful data solutions that align with real-world healthcare challenges. The project emphasizes ETL pipeline development, statistical analysis, predictive modeling, and dashboarding—all critical skills for a data analyst role in the healthcare industry.
 

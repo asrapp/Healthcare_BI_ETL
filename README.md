@@ -11,7 +11,7 @@ See the [dataset source](https://www.cms.gov/data-research/research/consumer-ass
 
 ## Interactive Tableau Dashboard
 
-https://public.tableau.com/views/healthcar_BI/HealthCareBI?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Tableau Dashboard](https://public.tableau.com/views/healthcar_BI/HealthCareBI?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Click the image above to view the interactive dashboard on Tableau Public.
 
